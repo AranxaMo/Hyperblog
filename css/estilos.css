@@ -8,7 +8,23 @@ body{
     border: 5px solid pink;
     border-left: 5px solid violet;
     border-right: 5px solid skyblue;
-    padding: 10px;
     margin: 0 auto;
 }
 
+#cabecera{
+    background-color: skyblue;
+    color: #FFF;
+}
+
+#post{
+    padding: 15px;
+} 
+h1{
+    margin: 0;
+    margin-right: 20px;
+    display: inline-block;
+}
+#tagline{
+    color: lightyellow;
+    font-weight: bold;
+}
