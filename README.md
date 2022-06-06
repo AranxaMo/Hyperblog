@@ -10,10 +10,7 @@ En fin si llegaste hasta acá puedes elegir entre estos **premios**:
 - Una galleta🍪
 - Un abrazo virtual 🫂
 - Creado por Aranxa 
-<<<<<<< HEAD
 
-=======
 - Incluye un saludo mio
 
 Muchas gracias por llegar hasta acá
->>>>>>> readme-mejorado
